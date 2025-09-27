@@ -43,6 +43,8 @@
   <br>
   <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="80" height="80" alt="angular"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="80" height="80" alt="postman"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="80" height="80" alt="postman"/>
+
 </p>
 
 <img align="center" alt="-----------------------------------------------------------------" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
