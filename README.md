@@ -35,7 +35,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="mysql"/></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="80" height="80" alt="oracle"/></a>
   <br>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="80" height="80" alt="postgresql"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="80" height="80" alt="postgresql"/></a>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="80" height="80" alt="html"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="80" height="80" alt="css"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="80" height="80" alt="js"/>
